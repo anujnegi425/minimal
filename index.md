@@ -1,14 +1,15 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Data Science Portfolio
 
 ### Machine Learning
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+#### Fraud Detection
+
+Fraud Detection Using Machine Learning deploys a machine learning (ML) model and an example dataset of credit card transactions to train the model to recognize fraud patterns. The model is self-learning which enables it to adapt to new, unknown fraud patterns.
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ## Header 2
 
