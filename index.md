@@ -9,7 +9,7 @@ Fraud Detection Using Machine Learning deploys a machine learning (ML) model and
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://www.arkoselabs.com/wp-content/uploads/Screen-Shot-2020-12-23-at-2.06.21-PM.png)
 
 ## Header 2
 
